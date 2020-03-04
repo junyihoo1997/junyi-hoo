@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/junyihoo/static/css/main.b70199cd.chunk.css",
+    "main.js": "/junyihoo/static/js/main.4bcb6a75.chunk.js",
+    "main.js.map": "/junyihoo/static/js/main.4bcb6a75.chunk.js.map",
+    "runtime-main.js": "/junyihoo/static/js/runtime-main.4cfa348c.js",
+    "runtime-main.js.map": "/junyihoo/static/js/runtime-main.4cfa348c.js.map",
+    "static/js/2.97337197.chunk.js": "/junyihoo/static/js/2.97337197.chunk.js",
+    "static/js/2.97337197.chunk.js.map": "/junyihoo/static/js/2.97337197.chunk.js.map",
+    "index.html": "/junyihoo/index.html",
+    "precache-manifest.922be1a529f5f616a2eea53a0843faea.js": "/junyihoo/precache-manifest.922be1a529f5f616a2eea53a0843faea.js",
+    "service-worker.js": "/junyihoo/service-worker.js",
+    "static/css/main.b70199cd.chunk.css.map": "/junyihoo/static/css/main.b70199cd.chunk.css.map",
+    "static/js/2.97337197.chunk.js.LICENSE.txt": "/junyihoo/static/js/2.97337197.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cfa348c.js",
+    "static/js/2.97337197.chunk.js",
+    "static/css/main.b70199cd.chunk.css",
+    "static/js/main.4bcb6a75.chunk.js"
+  ]
+}
